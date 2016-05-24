@@ -1,0 +1,9 @@
+<ImageButton
+        android:id="@+id/fab2"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:background="@drawable/circulo_ripple"
+        android:src="@drawable/fab_mas"
+        android:elevation="6dp"
+        android:stateListAnimator="@anim/boton_arriba"
+        />
