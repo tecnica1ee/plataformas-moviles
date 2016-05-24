@@ -1,0 +1,13 @@
+<android.support.design.widget.FloatingActionButton
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        app:elevation="6dp"
+        android:src="@drawable/fab_mas"
+        android:layout_toEndOf="@+id/fab2"
+        android:layout_alignTop="@+id/fab2"
+        android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+        app:layout_anchorGravity="bottom|right|end"
+        app:borderWidth="0dp"
+        app:pressedTranslationZ="12dp"
+        app:fabSize="normal"/>
