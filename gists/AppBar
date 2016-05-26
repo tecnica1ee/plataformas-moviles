@@ -1,0 +1,8 @@
+<android.support.v7.widget.Toolbar
+   android:id="@+id/app_bar"
+   android:layout_width="match_parent"
+   android:layout_height="?actionBarSize"
+   android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+   app:navigationIcon="@drawable/flecha_izquierda"
+   app:contentInsetStart="72dp"
+   app:layout_collapseMode="pin" />
