@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+   xmlns:app="http://schemas.android.com/apk/res-auto">
+   <item
+       android:id="@+id/miConectar"
+       android:icon="@drawable/ic_important_devices_black_24dp"
+       app:showAsAction="ifRoom"
+       android:title="Conectar">
+   </item>
+   <item
+       android:id="@+id/miDesconectar"
+       android:icon="@drawable/ic_portable_wifi_off_black_24dp"
+       app:showAsAction="ifRoom|withText"
+       android:title="Desconectar">
+   </item>
+</menu>
